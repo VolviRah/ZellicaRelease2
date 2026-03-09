@@ -15814,9 +15814,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
-{runtimeScene.getGame().getVariables().getFromIndex(2).setString("TELOPHASE");
+{runtimeScene.getGame().getVariables().getFromIndex(2).setString("G1");
 }
-{runtimeScene.getGame().getVariables().getFromIndex(3).setNumber(30);
+{runtimeScene.getGame().getVariables().getFromIndex(3).setNumber(0);
 }
 }
 
