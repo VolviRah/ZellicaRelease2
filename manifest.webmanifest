@@ -1,0 +1,12 @@
+{
+  "name": "Zellica",
+  "short_name": "Zellica",
+  "id": "com.example.gamename",
+  "description": "A top-down shooter game following the adventure of Blanche a white blood cell inspired by the process of the cell cycle and cell division.",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
